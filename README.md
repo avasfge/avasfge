@@ -2,6 +2,6 @@
 <div id="header" align="center">
   <img src="https://i.gifer.com/XwI4.gif" width="100"/>
 </div>
-![](https://komarev.com/ghpvc/?username=avasfge&color=green)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avasfge&theme=dracula)](https://github.com/avasfge)
