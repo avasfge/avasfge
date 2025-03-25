@@ -6,8 +6,8 @@
 - 🔭 CEO **EmpressEmpire HR**
 
 - 👯 I’m looking to collaborate on **Ayudante Dev. Team**
-
-<h3 align="left">Connect with me:</h3>
 - 📫 Telegram [https://t.me/Karyeen_1](https://t.me/Karyeen_1)
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
