@@ -3,4 +3,5 @@
   <img src="https://i.gifer.com/XwI4.gif" width="100"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula]
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
