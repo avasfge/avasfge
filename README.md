@@ -4,4 +4,4 @@
 </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=avasfge&theme=dracula)](https://github.com/avasfge)
+[![trophy](https://github-profile-trophy.vercel.app/?username=avasfge&rank=S&theme=dracula)](https://github.com/avasfge)
