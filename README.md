@@ -3,5 +3,11 @@
   <img src="https://i.gifer.com/XwI4.gif" width="100"/>
 </div>
 
+- 🔭 CEO **EmpressEmpire HR**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=avasfge&theme=dracula)](https://github.com/avasfge)
+- 👯 I’m looking to collaborate on **Ayudante Dev. Team**
+
+<h3 align="left">Connect with me:</h3>
+- 📫 Telegram [https://t.me/Karyeen_1](https://t.me/Karyeen_1)
+<p align="left">
+</p>
