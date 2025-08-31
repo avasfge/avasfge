@@ -1,13 +1,39 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=851617&center=true&width=435&lines=Hi!+I'm+Max)](https://git.io/typing-svg)
-<div id="header" align="center">
-  <img src="https://i.gifer.com/XwI4.gif" width="100"/>
-</div>
+# 👋 Привет!  
 
-- 🔭 CEO **EmpressEmpire HR**
+[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
+[![Stars](https://img.shields.io/github/stars/your-username?style=social)](https://github.com/your-username)
 
-- 👯 I’m looking to collaborate on **Ayudante Dev. Team**
-- 📫 Telegram [https://t.me/Karyeen_1](https://t.me/Karyeen_1)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avasfge&show_icons=true&locale=en&layout=compact" alt="avasfge" /></p>
+## 🚀 Немного обо мне  
+- 🔧 Люблю собирать проекты и пробовать новые технологии  
+- 🎮 Создаю сервисы и плагины для Minecraft  
+- 🌐 Интересуюсь IT, автоматизацией и онлайн-проектами  
+- ⚡ Постоянно ищу новые идеи для реализации  
+
+---
+
+## 🛠 Навыки
+- 💻 **Кодинг:** Python, JavaScript  
+- ⚙️ **Инструменты:** Git, Docker  
+- 🎨 **UI/UX:** Figma, Canva  
+- 📦 **Прочее:** работа в команде, проект-менеджмент  
+
+---
+
+## 📊 GitHub Статистика
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+---
+
+## 📌 Проекты
+- 📦 **Hamzuto Post** – сервис доставки в Minecraft  
+- ⚡ **Автоматизация** – мини-скрипты и тулзы  
+- 🎮 **Игровые проекты** – плагины и фичи для серверов  
+
+---
+
+✨ Спасибо, что заглянули в мой профиль!
